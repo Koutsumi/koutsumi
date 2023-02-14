@@ -15,7 +15,7 @@
 
  
   
- <div style="display: inline_block"><br>
+ <div align="center" style="display: inline_block"><br>
   
  <br>
 
