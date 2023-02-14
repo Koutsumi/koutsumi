@@ -3,7 +3,10 @@
 - 📫 How to reach me: febaccarini@gmail.com
 - 😄 Pronouns: she/her
 
-<a href="https://github.com/koutsumi%22%3E">
+<center> 
+ <a href="https://github.com/koutsumi%22%3E">
+</center>
+ 
   
  <div style="display: inline_block"><br>
   
