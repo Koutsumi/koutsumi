@@ -7,9 +7,9 @@
 
   <a href="https://github.com/Koutsumi">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=koutsumi&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=koutsumi&show_icons=true&theme=merko&include_all_commits=true&count_private=true%22/%3E">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koutsumi&layout=compact&langs_count=7&theme=merko&"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koutsumi&layout=compact&langs_count=7&theme=merko%22/%3E">
 
 </div>
 
@@ -17,10 +17,9 @@
   
  <div style="display: inline_block"><br>
   
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=koutsumi&show_icons=true&theme=merko&include_all_commits=true&count_private=true%22/%3E">
+ 
   
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koutsumi&layout=compact&langs_count=7&theme=merko%22/%3E">
-<div style="display: inline_block"><br>
+ <br>
 
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
