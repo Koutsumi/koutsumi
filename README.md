@@ -23,3 +23,8 @@ Here are some ideas to get you started:
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="Avatar-Maker.png">
 
 </div>
+  
+  <a href = "mailto:febaccarini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+  <a href="[https://www.linkedin.com/in/flavio-brancalhao-659574169/](https://www.linkedin.com/in/fernanda-matuda-baccarini-455b39171/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
