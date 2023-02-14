@@ -1,15 +1,11 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning JavaScript
-- 🤔 I’m looking for help with JavaScript
 - 📫 How to reach me: febaccarini@gmail.com
 - 😄 Pronouns: she/her
 
 <a href="https://github.com/koutsumi%22%3E">
   
-  <div style="display: inline_block"><br>
+ <div style="display: inline_block"><br>
   
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=koutsumi&show_icons=true&theme=merko&include_all_commits=true&count_private=true%22/%3E">
   
@@ -26,7 +22,7 @@ Here are some ideas to get you started:
 
 
 </div>
-  
+  <br>
   
   
  <a href = "mailto:febaccarini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
